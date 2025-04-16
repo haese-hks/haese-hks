@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
 - [QR Code Component](https://github.com/haese-hks/qr-code-component) – build a qr code component that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
 - [Blog Preview Card](https://github.com/haese-hks/blog-preview-card) – build a blog preview card that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
 - [Social Links Profile](https://github.com/haese-hks/social-links-profile) – build a social links profile that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
+- [Recipe Page](https://github.com/haese-hks/recipe-page) – build a recipe page that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
 
 ## GitHub Statistics 📊
 
@@ -25,7 +26,7 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
 
 ## Achievement
 
-- 🎓 Complete **Frontend Mentor** challenges for 3 projects.
+- 🎓 Complete **Frontend Mentor** challenges for 4 projects.
 - 🚀 Building **Responsive Design** projects that are accessible across devices.
 
 ## Tools & Technology that I Use 🛠️
