@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
 - [Frontend Mentor - Social links profile solution](https://github.com/haese-hks/social-links-profile) – build a social links profile that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
 - [Frontend Mentor - Recipe page solution](https://github.com/haese-hks/recipe-page) – build a recipe page that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
 - [Frontend Mentor - Product preview card component solution](https://github.com/haese-hks/product-preview-card-component) – build a Product preview card component that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
+- [Frontend Mentor - Four card feature section solution](https://github.com/haese-hks/four-card-feature-section) – build a responsive Four Card Feature Section that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
 
 ## GitHub Statistics 📊
 
@@ -27,7 +28,7 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
 
 ## Achievement
 
-- 🎓 Complete **Frontend Mentor** challenges for 5 projects.
+- 🎓 Complete **Frontend Mentor** challenges for 6 projects.
 - 🚀 Building **Responsive Design** projects that are accessible across devices.
 
 ## Tools & Technology that I Use 🛠️
