@@ -14,12 +14,13 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
   
 ## Latest Projects
 
-- [Frontend Mentor - QR code component solution](https://github.com/haese-hks/qr-code-component) – build a qr code component that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
-- [Frontend Mentor - Blog preview card solution](https://github.com/haese-hks/blog-preview-card) – build a blog preview card that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
-- [Frontend Mentor - Social links profile solution](https://github.com/haese-hks/social-links-profile) – build a social links profile that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
-- [Frontend Mentor - Recipe page solution](https://github.com/haese-hks/recipe-page) – build a recipe page that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
-- [Frontend Mentor - Product preview card component solution](https://github.com/haese-hks/product-preview-card-component) – build a Product preview card component that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
-- [Frontend Mentor - Four card feature section solution](https://github.com/haese-hks/four-card-feature-section) – build a responsive Four Card Feature Section that is as similar as possible to the design example in this challenge and make it responsive on mobile and desktop screens.
+- [Frontend Mentor - QR code component solution](https://github.com/haese-hks/qr-code-component)
+- [Frontend Mentor - Blog preview card solution](https://github.com/haese-hks/blog-preview-card)
+- [Frontend Mentor - Social links profile solution](https://github.com/haese-hks/social-links-profile)
+- [Frontend Mentor - Recipe page solution](https://github.com/haese-hks/recipe-page)
+- [Frontend Mentor - Product preview card component solution](https://github.com/haese-hks/product-preview-card-component)
+- [Frontend Mentor - Four card feature section solution](https://github.com/haese-hks/four-card-feature-section)
+- [Frontend Mentor - Testimonials grid section solution](https://github.com/haese-hks/testimonials-grid-section)
 
 ## GitHub Statistics 📊
 
@@ -28,7 +29,7 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
 
 ## Achievement
 
-- 🎓 Complete **Frontend Mentor** challenges for 6 projects.
+- 🎓 Complete **Frontend Mentor** challenges for 7 projects.
 - 🚀 Building **Responsive Design** projects that are accessible across devices.
 
 ## Tools & Technology that I Use 🛠️
