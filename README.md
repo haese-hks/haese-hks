@@ -14,13 +14,13 @@ Welcome to my GitHub profile! I am a web developer who is currently learning and
   
 ## Latest Projects
 
-- [Frontend Mentor - QR code component solution](https://github.com/haese-hks/qr-code-component)
-- [Frontend Mentor - Blog preview card solution](https://github.com/haese-hks/blog-preview-card)
-- [Frontend Mentor - Social links profile solution](https://github.com/haese-hks/social-links-profile)
-- [Frontend Mentor - Recipe page solution](https://github.com/haese-hks/recipe-page)
-- [Frontend Mentor - Product preview card component solution](https://github.com/haese-hks/product-preview-card-component)
-- [Frontend Mentor - Four card feature section solution](https://github.com/haese-hks/four-card-feature-section)
-- [Frontend Mentor - Testimonials grid section solution](https://github.com/haese-hks/testimonials-grid-section)
+- [Frontend Mentor - QR code component solution](https://www.frontendmentor.io/solutions/qr-code-component-IDWP4MLZsB)
+- [Frontend Mentor - Blog preview card solution](https://www.frontendmentor.io/solutions/make-blog-preview-card-using-html-and-css-g596EzW-x5)
+- [Frontend Mentor - Social links profile solution](https://www.frontendmentor.io/solutions/social-links-profile-xFuVLn5v7H)
+- [Frontend Mentor - Recipe page solution](https://www.frontendmentor.io/solutions/resipe-page-solution-x3J8Nf0aFP)
+- [Frontend Mentor - Product preview card component solution](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-media-query-TL8IZjd3O4)
+- [Frontend Mentor - Four card feature section solution](https://www.frontendmentor.io/solutions/responsive-four-card-feature-using-css-grid---vanilla-css-S_gzqG9vTa)
+- [Frontend Mentor - Testimonials grid section solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-B9vzmJuXvu)
 
 ## GitHub Statistics 📊
 
